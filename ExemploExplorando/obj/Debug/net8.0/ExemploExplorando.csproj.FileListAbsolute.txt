@@ -1,0 +1,14 @@
+C:\Users\PMJ\Documents\Gustavo\ExemploExplorando\bin\Debug\net8.0\ExemploExplorando.exe
+C:\Users\PMJ\Documents\Gustavo\ExemploExplorando\bin\Debug\net8.0\ExemploExplorando.deps.json
+C:\Users\PMJ\Documents\Gustavo\ExemploExplorando\bin\Debug\net8.0\ExemploExplorando.runtimeconfig.json
+C:\Users\PMJ\Documents\Gustavo\ExemploExplorando\bin\Debug\net8.0\ExemploExplorando.dll
+C:\Users\PMJ\Documents\Gustavo\ExemploExplorando\bin\Debug\net8.0\ExemploExplorando.pdb
+C:\Users\PMJ\Documents\Gustavo\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PMJ\Documents\Gustavo\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.AssemblyInfoInputs.cache
+C:\Users\PMJ\Documents\Gustavo\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.AssemblyInfo.cs
+C:\Users\PMJ\Documents\Gustavo\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.csproj.CoreCompileInputs.cache
+C:\Users\PMJ\Documents\Gustavo\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.dll
+C:\Users\PMJ\Documents\Gustavo\ExemploExplorando\obj\Debug\net8.0\refint\ExemploExplorando.dll
+C:\Users\PMJ\Documents\Gustavo\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.pdb
+C:\Users\PMJ\Documents\Gustavo\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.genruntimeconfig.cache
+C:\Users\PMJ\Documents\Gustavo\ExemploExplorando\obj\Debug\net8.0\ref\ExemploExplorando.dll
