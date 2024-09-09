@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PMJ\\Documents\\Gustavo\\ExemploExplorando\\ExemploExplorando.csproj": {}
+    "C:\\Users\\Gustavo\\Desktop\\Curso Full Stack\\ExemploExplorandoCursoDio\\ExemploExplorandoCursoDio\\ExemploExplorando\\ExemploExplorando.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PMJ\\Documents\\Gustavo\\ExemploExplorando\\ExemploExplorando.csproj": {
+    "C:\\Users\\Gustavo\\Desktop\\Curso Full Stack\\ExemploExplorandoCursoDio\\ExemploExplorandoCursoDio\\ExemploExplorando\\ExemploExplorando.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PMJ\\Documents\\Gustavo\\ExemploExplorando\\ExemploExplorando.csproj",
+        "projectUniqueName": "C:\\Users\\Gustavo\\Desktop\\Curso Full Stack\\ExemploExplorandoCursoDio\\ExemploExplorandoCursoDio\\ExemploExplorando\\ExemploExplorando.csproj",
         "projectName": "ExemploExplorando",
-        "projectPath": "C:\\Users\\PMJ\\Documents\\Gustavo\\ExemploExplorando\\ExemploExplorando.csproj",
-        "packagesPath": "C:\\Users\\PMJ\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PMJ\\Documents\\Gustavo\\ExemploExplorando\\obj\\",
+        "projectPath": "C:\\Users\\Gustavo\\Desktop\\Curso Full Stack\\ExemploExplorandoCursoDio\\ExemploExplorandoCursoDio\\ExemploExplorando\\ExemploExplorando.csproj",
+        "packagesPath": "C:\\Users\\Gustavo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gustavo\\Desktop\\Curso Full Stack\\ExemploExplorandoCursoDio\\ExemploExplorandoCursoDio\\ExemploExplorando\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\PMJ\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Gustavo\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"

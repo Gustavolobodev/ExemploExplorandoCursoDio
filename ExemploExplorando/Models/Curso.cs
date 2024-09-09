@@ -10,9 +10,29 @@ namespace ExemploExplorando.Models
         public string Nome { get; set; }
         public List<Pessoa> Alunos { get; set; }
 
-        public void AdicionarAlunos(Pessoa Aluno)
+        public void AdicionarAlunos(Pessoa aluno)
         {
-            Alunos.Add(Aluno);
+            Alunos.Add(aluno);
+        }
+
+        public int ObterQuantidadeDeAlunosMatriculados()
+        {
+            int quantidade = Alunos.Count;
+            return quantidade;
+        }
+
+        public bool RemoverAluno(Pessoa aluno)
+        {
+            return Alunos.Remove(aluno);
+        }
+
+        public void ListarAlunos()
+        {
+            Console.WriteLine($"Alunos do curso de {Nome}:");
+            foreach (Pessoa aluno in Alunos)
+            {
+                Console.WriteLine(aluno.NomeCompleto);
+            }
         }
     }
 }
