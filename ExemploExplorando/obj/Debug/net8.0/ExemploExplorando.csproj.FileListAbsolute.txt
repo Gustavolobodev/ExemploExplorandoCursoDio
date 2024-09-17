@@ -42,3 +42,6 @@ C:\Users\PMJ\Documents\Gustavo\ExemploExplorandoCursoDio\ExemploExplorandoCursoD
 C:\Users\PMJ\Documents\Gustavo\ExemploExplorandoCursoDio\ExemploExplorandoCursoDio\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.pdb
 C:\Users\PMJ\Documents\Gustavo\ExemploExplorandoCursoDio\ExemploExplorandoCursoDio\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.genruntimeconfig.cache
 C:\Users\PMJ\Documents\Gustavo\ExemploExplorandoCursoDio\ExemploExplorandoCursoDio\ExemploExplorando\obj\Debug\net8.0\ref\ExemploExplorando.dll
+C:\Users\Gustavo\Desktop\Curso Full Stack\ExemploExplorandoCursoDio\ExemploExplorandoCursoDio\ExemploExplorando\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Gustavo\Desktop\Curso Full Stack\ExemploExplorandoCursoDio\ExemploExplorandoCursoDio\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.csproj.AssemblyReference.cache
+C:\Users\Gustavo\Desktop\Curso Full Stack\ExemploExplorandoCursoDio\ExemploExplorandoCursoDio\ExemploExplorando\obj\Debug\net8.0\ExemploE.B7F01285.Up2Date

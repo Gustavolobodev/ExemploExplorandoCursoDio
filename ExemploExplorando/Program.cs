@@ -1,16 +1,58 @@
 ﻿using System.Globalization;
 using ExemploExplorando.Models;
+using Newtonsoft.Json;
+
+
+
+Venda v1 = new(1, "Material de escritório", 25.00M);
+
+string serializado = JsonConvert.SerializeObject(v1, Formatting.Indented);
+
+File.WriteAllText("Arquivos/vendas.json", serializado);
+
+
+Console.WriteLine(serializado);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 // INTRODUÇÃO DICTIONARY
 
 
-Dictionary<string,string> estados = new Dictionary<string, string>();
+// Dictionary<string,string> estados = new Dictionary<string, string>();
 
-estados.Add("SP", "São Paulo");
-estados.Add("BA", "Bahia");
-estados.Add("MG", "Minas Gerais");
+// estados.Add("SP", "São Paulo");
+// estados.Add("BA", "Bahia");
+// estados.Add("MG", "Minas Gerais");
 
-Console.WriteLine(estados["Minas Gerais"]);
+// Console.WriteLine(estados["Minas Gerais"]);
 
 // foreach(var item in estados)
 // {
@@ -29,15 +71,15 @@ Console.WriteLine(estados["Minas Gerais"]);
 
 // VERIFICANDO SE A CHAVE JA EXISTE
 
-string chave = "BA2";
+// string chave = "BA2";
 
-if (estados.ContainsKey(chave))
-{
-    Console.WriteLine($"Valor existente: ");
-}
-else{
-    Console.WriteLine($"Valor não existe. É seguro adicionar a chave: {chave}");
-}
+// if (estados.ContainsKey(chave))
+// {
+//     Console.WriteLine($"Valor existente: ");
+// }
+// else{
+//     Console.WriteLine($"Valor não existe. É seguro adicionar a chave: {chave}");
+// }
 
 
 
