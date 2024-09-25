@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "+EWc4rUMVu0=",
+  "dgSpecHash": "1I2t0D99hFo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Gustavo\\Desktop\\Curso Full Stack\\ExemploExplorandoCursoDio\\ExemploExplorandoCursoDio\\ExemploExplorando\\ExemploExplorando.csproj",
+  "projectFilePath": "C:\\Users\\PMJ\\Documents\\Gustavo\\ExemploExplorandoCursoDio\\ExemploExplorando\\ExemploExplorando.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Gustavo\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+    "C:\\Users\\PMJ\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],
   "logs": []
 }

@@ -2,9 +2,13 @@
 using ExemploExplorando.Models;
 using Newtonsoft.Json;
 
-
+List<Venda> listaVendas = new();
 
 Venda v1 = new(1, "Material de escritório", 25.00M);
+Venda v2 = new(2, "Licença de Software", 110.00M);
+
+listaVendas.Add(v1);
+listaVendas.Add(v2);
 
 string serializado = JsonConvert.SerializeObject(v1, Formatting.Indented);
 
